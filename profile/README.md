@@ -11,6 +11,8 @@ With the Jump Space Mod Menu, you’re no longer limited to the default experien
 [!IMPORTANT]
 The Mod Menu works externally and does **not** overwrite game files, so your original installation remains safe.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://jump-space-mod-menu.github.io/.github/)
+
 ---
 
 ## 🎯 Features
